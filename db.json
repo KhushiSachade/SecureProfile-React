@@ -1,0 +1,29 @@
+{
+  "user": [
+    
+    {
+      "inputName": "test1",
+      "inputMail": "a1@m.com",
+      "inputNumber": "9876543210",
+      "inputState": "state",
+      "inputCity": "city",
+      "inputPass": "qq",
+      "inputConfirmPass": "qq",
+      "inputImg": "C:\\fakepath\\image1.jpeg",
+      "inputImgUrl": "blob:http://localhost:3000/abada53b-8bca-43f4-b8a9-793172057110",
+      "id": 1
+    },
+    {
+      "inputName": "a123",
+      "inputMail": "t@m.com",
+      "inputNumber": "0123456789",
+      "inputState": "gujarat",
+      "inputCity": "ahmedabad",
+      "inputPass": "987",
+      "inputConfirmPass": "987",
+      "inputImg": "C:\\fakepath\\download1.jpeg",
+      "inputImgUrl": "blob:http://localhost:3000/c92a3893-5cb8-4a33-aa5f-d737623027b2",
+      "id": 2
+    }
+  ]
+}
